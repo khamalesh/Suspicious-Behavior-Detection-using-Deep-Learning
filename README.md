@@ -5,7 +5,7 @@ Our work explores different model architectures and approaches for anomaly detec
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 - **Objective:** Develop deep learning models to detect suspicious or abnormal behavior from video surveillance data.  
 - **Approach:**  
   - Data preprocessing and preparation  
@@ -16,7 +16,7 @@ Our work explores different model architectures and approaches for anomaly detec
 
 ---
 
-## 👥 Team & Contributions
+##  Team & Contributions
 This project was completed collaboratively, with clear division of responsibilities:
 
 - **Member 1** — Data preprocessing and pipeline design (`preprocessing.ipynb`)  
@@ -28,7 +28,7 @@ This project was completed collaboratively, with clear division of responsibilit
 
 ---
 
-## 🗂 Repository Structure
+##  Repository Structure
 
 ```
 suspicious-behavior-detection-notebooks/
@@ -125,7 +125,7 @@ This project is for **academic purposes**. If shared publicly, please include an
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 - Public datasets (UCF-Crime, UCSD, ShanghaiTech).  
 - Libraries: PyTorch, TensorFlow, scikit-learn, OpenCV, NumPy, and others.  
 - Research papers and tutorials that inspired this implementation.  
